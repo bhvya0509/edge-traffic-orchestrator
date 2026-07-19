@@ -1,0 +1,11 @@
+Indian-Vehicle-Dataset*/
+runs/
+__pycache__/
+venv/
+.next/
+node_modules/
+*.pt
+*.onnx
+*.mp4
+.env*
+.DS_Store
